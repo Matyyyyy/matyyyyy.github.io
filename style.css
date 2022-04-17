@@ -275,7 +275,7 @@ body a:hover
 
 h1.big-title
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
     font-size: 56px;
     font-weight: 700;
     line-height: 100%;
@@ -294,7 +294,7 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'PT Serif', serif;
+    font-family: "Segoe UI", Arial, sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px; 
